@@ -1,4 +1,4 @@
-# Categoria-por-idades
+# Categoria por idades
 Exercício de prática do curso "Python: crie sua primeira aplicação" da plataforma Alura
 
 "- Pergunte ao usuário sua idade e, com base nisso, use uma estrutura if elif else para classificar a idade em categorias de acordo com as seguintes condições:

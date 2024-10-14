@@ -25,6 +25,4 @@ Este script em Python tem como objetivo classificar uma pessoa em uma das seguin
 
 - Este é um exemplo simples de um classificador de idades em Python.
 
-<br>
-
 - O código pode ser expandido e personalizado para atender a diferentes necessidades.
